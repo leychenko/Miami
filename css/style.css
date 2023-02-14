@@ -653,6 +653,18 @@ body {
   gap: 2.5rem;
 }
 
+.gallery__marina img {
+  border-radius: 0.5rem;
+}
+
+.gallery__residens img {
+  border-radius: 0.5rem;
+}
+
+.gallery__faena img {
+  border-radius: 0.5rem;
+}
+
 .gallery__action {
   display: -webkit-box;
   display: -ms-flexbox;
